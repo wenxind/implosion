@@ -50,6 +50,13 @@ For each pickle file of text-image pair, normalized CLIP embeddings will be comp
 
 ---
 
-## License
+## Citation
 
-All code in this repository is licensed under ???. 
+```
+@inproceedings{ding2024understand,
+  title={Understanding Implosion in Text-to-Image Generative Models},
+  author={Ding, Wenxin and Li, Cathy Y and Shan, Shawn and Zhao, Ben Y and Zheng, Haitao},
+  journal={Proc. of CCS},
+  year={2024}
+}
+```
